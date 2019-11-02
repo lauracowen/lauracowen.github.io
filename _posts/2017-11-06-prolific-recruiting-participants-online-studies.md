@@ -29,7 +29,7 @@ You can register for Prolific with a researcher account or a participant account
 
 When you&#8217;ve set up your online study outside of Prolific, you create a new study in Prolific and give it details of your study, including the URL to the study itself:
 
-<img src="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-create-study-75pc-600x371.png" alt="" width="600" height="371" class="aligncenter size-large wp-image-2462" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-create-study-75pc-600x371.png 600w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-create-study-75pc-300x185.png 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-create-study-75pc-768x475.png 768w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-create-study-75pc.png 882w" sizes="(max-width: 600px) 100vw, 600px" /> 
+![](uploads/2017/11/Prolific-create-study-75pc.png)
 
 I set up my study in Gorilla. Gorilla integrates nicely with Prolific in that it generates a URL that collects participants&#8217; Prolific IDs automatically (so the participant doesn&#8217;t have to manually enter it). As a researcher, you can also enter the Prolific &#8216;completion URL&#8217; into your Gorilla experiment so that participants don&#8217;t need to manually enter a completion code into Prolific before they can receive payment. This mostly worked seamlessly for me, though I messed up the set up at one point because I accidentally limited my Gorilla study to one fewer participant than on Prolific; don&#8217;t do that, it means that Prolific sends the last participant to Gorilla which then rejects them and Prolific sends another participant, and so on&#8230;
 
@@ -37,7 +37,7 @@ As you can see in the screenshot, Prolific calculates up-front the cost of your 
 
 You then provide a textual description of your study so that potential participants can decide whether they&#8217;re interested in taking part. After that, you can optionally select to &#8216;prescreen&#8217; participants according to their basic demographics or other more specific features of their lives:
 
-<img src="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-prescreeners-75-600x466.png" alt="" width="600" height="466" class="aligncenter size-large wp-image-2465" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-prescreeners-75-600x466.png 600w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-prescreeners-75-300x233.png 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-prescreeners-75.png 694w" sizes="(max-width: 600px) 100vw, 600px" /> 
+![](uploads/2017/11/Prolific-prescreeners-75.png)
 
 I selected that participants should be UK residents which, Prolific helpfully informed me, restricted me to about 18,000 people in the participant pool. Aside from basic demographic details, most of the prescreener questions are optional for participants to complete (though not completing them restricts how many studies they&#8217;re eligible to participate in). The fewer prescreeners you include in your study, the more potential participants are eligible to do your study.
 
@@ -47,7 +47,7 @@ Finally, you have to confirm that you&#8217;ve tested your study and various oth
 
 You can now publish your study, as long as you&#8217;ve credited your account with enough money to cover the calculated cost (you can request a refund for any credit you don&#8217;t spend). At this point Prolific displays your study to eligible participants and email subsets of eligible participants to notify them that there&#8217;s a new study they can take part in. It&#8217;s quite good fun watching the live dashboard update as participants start your study:
 
-<img src="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-live-screen-75pc-600x307.png" alt="" width="600" height="307" class="aligncenter size-large wp-image-2461" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-live-screen-75pc-600x307.png 600w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-live-screen-75pc-300x153.png 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-live-screen-75pc-768x393.png 768w, http://lauracowen.co.uk/blog/wp-content/uploads/2017/11/Prolific-live-screen-75pc.png 1072w" sizes="(max-width: 600px) 100vw, 600px" /> 
+![](uploads/2017/11/Prolific-live-screen-75pc.png)
 
 Prolific keeps recruiting until it reaches your target recruitment number (21 in the screenshot above). You then have 21 days to &#8216;approve&#8217; participants so that they get paid. Prolific has [a few criteria you can legitimately use to approve or reject participants](http://help.prolific.ac/managing-and-reviewing-submissions/reviewing-submissions/reviewing-submissions-how-do-i-decide-who-to-acceptreject). I included some &#8216;attention questions&#8217; in my study and only participants who got a certain number correct were paid (in practice, all of them were fine). I also did some other checks but ultimately accepted all the complete sets of data.
 
