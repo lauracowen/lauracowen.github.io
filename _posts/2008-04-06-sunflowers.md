@@ -26,7 +26,7 @@ So, this Spring, I&#8217;ve started collecting toilet roll tubes (also in the sp
 
 In the meantime, I&#8217;ve bought a couple of packets of seeds (hoping that if one is so tasty that the toilet roll tubes fail to foil the crafty slugs, I can try again). I&#8217;ve planted the first packet into small pots on the windowsill and the first few seeds have germinated nicely:
 
-![First Moulin Rouge sunflower seedling](uploads/2008/04/img_2656.jpg)
+![First Moulin Rouge sunflower seedling](/assets/uploads/2008/04/img_2656.jpg)
 
 That&#8217;s despite me mixing in too much of the water-saving crystals with the compost so that every time I water them, the soil expands so much that it starts to climb out of the pots!
 

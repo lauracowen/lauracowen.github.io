@@ -129,9 +129,9 @@ At this point, I noticed my images hadn't copied down from WP.
 
 My Wordpress host, Clook.net, provides cPanel so I can use the browser-based file manager to zip up and download the `uploads` directory. There are WP plugins to export media but they needed a newer version of PHP than I have installed so I didn't try them (search for new plugins with something like 'export media').
 
+Took the opportunity to delete a load of my old blog posts that are of no interest to anyone any more. That left me with 44 posts, of which some have images. Some images I just don't have any more because I lost access to the online gallery that I linked to. Where the images were stored directly in Wordpress, I had lost a few random images probably when migrating between Wordpress instances when I moved hosting a few years ago. Of what's left, I decided it was easiest to just manually work through the directories of images, delete the many differently sized versions that WP generates, and edit the posts with correct markdown syntax links.
 
-
-
+Jekyll doesn't recognise sub-directories of image files in the `_posts` directory. You need to create a directory in the root of the project (eg `assets`) which Jekyll then pulls in. To reference an image from a post, you then use the format `![alt text](/assets/image_name.png)` - the slash (`/`) before `assets` is important because it tells Jekyll that the `assets` directory is in the root of the project. I used a `sed` command again to update the references to image files from my posts.
 
 == Export comments from Wordpress
 
@@ -139,4 +139,10 @@ My Wordpress host, Clook.net, provides cPanel so I can use the browser-based fil
 
 https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
 
+https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions
 
+
+== Things not yet working
+
+* Embedded pins from Pinterest
+* Embedded slides from Slideshare(?)

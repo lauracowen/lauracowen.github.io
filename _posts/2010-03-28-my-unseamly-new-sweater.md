@@ -27,7 +27,7 @@ So after completing a smaller practice project last Spring, I decided to tackle 
 
 Here&#8217;s a photo of me modelling it, catalogue-style:
 
-![Magazine pose for my completed crochet project.](uploads/2010/03/MG_6393-20pc.jpg)
+![Magazine pose for my completed crochet project.](/assets/uploads/2010/03/MG_6393-20pc.jpg)
 
 I&#8217;m really pleased with how it came out. There was a moment last weekend when it seemed I wouldn&#8217;t be able to complete the second sleeve because I&#8217;d run out of yarn, and my original supplier was permanently out of stock. The combined wonders of Google and Ebay saved the day.
 
