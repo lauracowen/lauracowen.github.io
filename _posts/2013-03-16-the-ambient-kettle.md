@@ -24,9 +24,9 @@ tags:
 ---
 <p style="text-align: left;">
   Back in 2007, <a title="My new friend blog post" href="http://www.lauracowen.co.uk/blog/2007/05/24/my-new-friend/" target="_blank">my Mum and I got a pair of Internet-connected Nabaztag bunnies</a>. Aside from all the online content we could subscribe to using the bunnies, the most fun thing for me was that we could &#8216;pair&#8217; our bunnies so that they would talk to each other. If I moved the ears on my bunny, the ears on my Mum&#8217;s bunny would move to match, and vice versa. The 250 physical miles disappear for a few seconds when you see the ears move and know that it&#8217;s because Mum is physically moving the ears of her bunny. I know exactly what she&#8217;s doing at that particular pointing in time, as if we&#8217;re briefly in the same room. The technical term for this is, apparently, <a title="Ambient awareness on Wikipedia" href="http://en.wikipedia.org/wiki/Ambient_awareness" target="_blank"><em>ambient awareness</em></a>.
-</p><figure id="attachment_2013" aria-describedby="caption-attachment-2013" style="width: 225px" class="wp-caption aligncenter">
+</p>
 
-<img class="size-medium wp-image-2013" src="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/bunny-225x300.jpg" alt="My Nabaztag bunny" width="225" height="300" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/bunny-225x300.jpg 225w, http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/bunny.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /> <figcaption id="caption-attachment-2013" class="wp-caption-text">My Nabaztag bunny</figcaption></figure> 
+![My Nabaztag bunny](uploads/2013/03/bunny.jpg)
 
 <p style="text-align: left;">
   The bunny ears experience of ambient awareness inspired my first (and, so far, only) Arduino project: <a title="Electricity monitoring with Christmas lights and Arduino" href="http://www.lauracowen.co.uk/blog/2010/02/09/electricity-monitoring-with-christmas-lights-and-arduino/" target="_blank">Monitoring electricity using Christmas lights</a>. The red/orange lights indicated the current electricity usage of my house and the blue/green lights indicated the current electricity usage of Mum and Dad&#8217;s house. The more electricity currently being used, the faster the lights flashed. Again, it was just that tiny tiny insight into what was happening 250 miles away. Just the mundanity of everyday life shared.
@@ -34,9 +34,9 @@ tags:
 
 <p style="text-align: left;">
   So I was curious about the <a title="Kickstarter project for Good Night Lamp" href="http://www.kickstarter.com/projects/designswarm/good-night-lamp/" target="_blank">Kickstarter project</a> for the <a title="Good Night Lamp website" href="http://goodnightlamp.com/" target="_blank">Good Night Lamp</a>. The Good Night Lamp is a really nice and simple concept. One person has a Big Lamp (shaped like a  house) and they give Little Lamps, associated with the Big Lamp, to friends and/or family anywhere in the world. When the owner switches off the Big Lamp (when they go out or go to bed), the associated Little Lamps also switch off. An appealing part of it is that you can collect a Little Lamp from each of your family or group of friends and arrange them on a shelf so that before you go to bed at night, you can see each of them &#8216;say goodnight&#8217; as their respective lights go out.
-</p><figure id="attachment_2012" aria-describedby="caption-attachment-2012" style="width: 300px" class="wp-caption aligncenter">
+</p>
 
-<img class="wp-image-2012 size-medium" src="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/Good-Night-Lamp-9-300x200.jpg" alt="Good-Night-Lamp-9" width="300" height="200" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/Good-Night-Lamp-9-300x200.jpg 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/Good-Night-Lamp-9.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /> <figcaption id="caption-attachment-2012" class="wp-caption-text">Good Night Lamp</figcaption></figure> 
+![Good-Night-Lamp](uploads/2013/03/Good-Night-Lamp-9.jpg)
 
 <p style="text-align: left;">
   The problem I see with the Good Night Lamp is similar to the one with the Nabaztag. While I think it&#8217;s great having simple devices that do just one thing well, it doesn&#8217;t half clutter up the place. These kinds of devices need shelf-space. And it has to be shelf-space you can see easily in a place you&#8217;ll often be or they don&#8217;t work. Maybe as people replace all their books with the more easily stored ebooks, living-room bookcases will become filled with ambient devices instead. I got to chatting with <a title="Ambient Orb website" href="http://www.ambientdevices.com/about/consumer-devices" target="_blank">Ambient Orb</a> fan <a title="@andysc on Twitter" href="https://twitter.com/andysc" target="_blank">Andy Stanford-Clark</a> about it.
@@ -56,9 +56,9 @@ tags:
 
 <p style="text-align: left;">
   So Andy hacked up a (private) Twitter account, @ambientkettle, which my Mum follows. Each time the kettle boils in my house, the @ambientkettle account tweets to my Mum:
-</p><figure id="attachment_2011" aria-describedby="caption-attachment-2011" style="width: 300px" class="wp-caption aligncenter">
+</p>
 
-<img class="size-medium wp-image-2011" src="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/kettle-tweet-300x77.png" alt="@ambientkettle tweets" width="300" height="77" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/kettle-tweet-300x77.png 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2013/03/kettle-tweet.png 303w" sizes="(max-width: 300px) 100vw, 300px" /> <figcaption id="caption-attachment-2011" class="wp-caption-text">@ambientkettle tweets</figcaption></figure> 
+![@ambientkettle tweets](uploads/2013/03/kettle-tweet.png)
 
 <p style="text-align: left;">
   Without being physically present or explicitly letting her know that I am making a cup of tea, she can get a sense of what I&#8217;m doing. The messages in the tweets that @ambientkettle sends are pre-canned and chosen at random but made to be chatty enough that it seems a bit like the start of a conversation. Indeed, Mum sometimes tweets back to it to say that she and Dad are also having a cup of tea or are looking forward to one when they get home, or whatever. As I say, it&#8217;s mundane but it&#8217;s those kinds of mundane things that make everyday life.

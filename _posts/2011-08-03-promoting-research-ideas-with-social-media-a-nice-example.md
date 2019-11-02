@@ -43,9 +43,13 @@ If you _are_ as cool as your cool new research idea, you might also embrace the
 
 I don&#8217;t know whether <a title="Andrew Hayes's website" href="http://www.afhayes.com/" target="_blank">Hayes</a> & <a title="Kristopher Preacher's website" href="http://www.people.ku.edu/~preacher/" target="_blank">Preacher</a> (or Preacher & Hayes) went through that exact thought process when thinking about how to promote their cool new statistical methods to psychologists and other social scientists, but it seems that usability was one of their aims (for example, Andrew Hayes suggests that people have tended to stick with the older methods, rather than adopt the newer and better methods, because the old ones are &#8220;simple and widely understood&#8221;; Hayes, 2009, p 411).
 
+![Facebook Discussion list of topics](uploads/2011/08/modemed-facebook-screenshot.png)
+
+<!-->
 <center>
   <a href="http://www.facebook.com/group.php?gid=44574520333&v=app_2373072738"><img class="aligncenter size-medium wp-image-871" title="Facebook Discussion list of topics" src="http://www.lauracowen.co.uk/blog/wp-content/uploads/2011/08/modemed-facebook-screenshot-300x251.png" alt="Facebook Discussion list of topics" width="300" height="251" /></a>
-</center>So Hayes & Preacher have done two things:
+</center>-->
+So Hayes & Preacher have done two things:
 
   * **Written <a title="Macros for SPSS on Andrew Hayes's website" href="http://www.afhayes.com/spss-sas-and-mplus-macros-and-code.html" target="_blank">macros to extend SPSS</a>**  
     Users can use the macros to (fairly) easily run the tests using SPSS, an environment they&#8217;re already familiar with. Macros are a bit fiddly to work with so, for one of their tests, they&#8217;ve even written a custom dialog that you can install in SPSS which adds a new entry to the Analyze menu so that you can just open a standard-looking dialog box to select the appropriate variables names and run the test. All this is available for free download from their website.

@@ -34,9 +34,7 @@ Her post (really, [go read it now](http://alicebartlett.co.uk/blog/tampon-club "
 
 It took longer than it should&#8217;ve but, as of this Wednesday: ta-da!
 
-<img class="aligncenter wp-image-1964 size-medium" src="http://lauracowen.co.uk/blog/wp-content/uploads/2014/10/photo-e1414709387706-300x259.jpg" alt="photo" width="300" height="259" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2014/10/photo-e1414709387706-300x259.jpg 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2014/10/photo-e1414709387706.jpg 520w" sizes="(max-width: 300px) 100vw, 300px" /> 
-
-&nbsp;
+![](uploads/2014/10/photo.jpg)
 
 If you use the DE3 women&#8217;s toilets, let us know what you think. Please use the supplies and feel free to contribute if you want to.
 

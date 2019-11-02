@@ -24,7 +24,7 @@ tags:
 ---
 I learnt something interesting today: between 2007 and 2011, we halved the amount of electricity we use in our house:
 
-[<img class="aligncenter size-medium wp-image-2032" src="http://lauracowen.co.uk/blog/wp-content/uploads/2012/02/electricity-graph-18thFeb2012-300x203.png" alt="electricity-graph-18thFeb2012" width="300" height="203" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2012/02/electricity-graph-18thFeb2012-300x203.png 300w, http://lauracowen.co.uk/blog/wp-content/uploads/2012/02/electricity-graph-18thFeb2012.png 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://lauracowen.co.uk/blog/wp-content/uploads/2012/02/electricity-graph-18thFeb2012.png)
+![electricity-graph-18thFeb2012](uploads/2012/02/electricity-graph-18thFeb2012.png)
 
 In 2007, we used 6783 kWh of electricity (for electricity, a kilowatt hour is the same thing as a &#8216;unit&#8217; on your bill). In 2011, by contrast, we used 3332 kWh (or &#8216;units&#8217;). 2007 was slightly on the high side (compared with 2006) because we had no gas fire in the living-room during the winter of 2006-7 so we&#8217;d used an electric oil heater during the coldest weeks (we don&#8217;t have central heating in that room) <sup>1</sup>.
 
@@ -32,7 +32,7 @@ That&#8217;s an average of 19 kWh per day in 2007 compared with 9 kWh per day in
 
 In early 2008, I got a plug-in Maplin meter (similar to [this one](http://www.maplin.co.uk/plug-in-mains-power-and-energy-monitor-38343)) and one of the very early [Current Cost](http://www.currentcost.com/) monitors, which display in real-time how much electricity is being used in your whole house:
 
-[<img class="aligncenter size-medium wp-image-713" src="http://lauracowen.co.uk/blog/wp-content/uploads/2011/01/IMG_4103-225x300.jpg" alt="Current Cost monitor" width="225" height="300" />](http://lauracowen.co.uk/blog/wp-content/uploads/2012/02/2578223342_4317676b52_b-cropped.png)
+![Current Cost monitor](uploads/2011/01/IMG_4103.jpg)
 
 Aside from the fun of seeing the display numbers shoot up when we switched the kettle on, it informed us more usefully that when we went to bed at night or out to work, our house was still using about 350 Watts (which is 3066 kWh per year)<sup>2</sup> of electricity. That&#8217;s when the house is pretty much doing nothing. Nothing, that is, apart from powering:
 

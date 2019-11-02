@@ -55,15 +55,17 @@ When I started learning about the human impact on climate change in terms of num
 
 The following graph shows the 37 flights I&#8217;ve taken, by year, since 1999 (click the image to see a larger version):
 
-<p style="text-align: center;">
-  <a href="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-numberofflightsperyear.png"><img class="alignnone wp-image-633 size-full" title="Number of flights per year." src="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-numberofflightsperyear-e1414704253107.png" alt="" width="600" height="254" /></a>
-</p>
+<!--![Number of flights per year.](uploads/2010/07/flights-numberofflightsperyear.png)-->
+
+(missing image)
 
 And the next graph shows my carbon dioxide (including equivalent greenhouse gas) emissions for those flights:
 
-<p style="text-align: center;">
+(missing image)
+
+<!--<p style="text-align: center;">
   <a href="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesperyear.png"><img class="alignnone wp-image-625 size-full" title="Tonnes of CO2 per year by flight." src="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesperyear-e1414704280678.png" alt="" width="600" height="410" /></a>
-</p>
+</p>-->
 
 The four years with large spikes were the years I took return long-haul flights to the USA (twice for work, once for a wedding, and once for a non-work conference). Other than that, the flights have all been within Europe, including six within the UK (between Southampton and Scotland).
 
@@ -71,9 +73,7 @@ So why has the number of flights I&#8217;ve taken increased so much in the past 
 
 Here&#8217;s a breakdown of the CO2 emissions by the primary reasons for taking the flights (the number in parentheses in the legend shows the number of actual flights per reason):
 
-<p style="text-align: center;">
-  <a href="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesbyreason.png"><img class="alignnone wp-image-624 size-full" title="Tonnes of CO2 by primary reason for the flight." src="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesbyreason.png" alt="" width="384" height="332" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesbyreason.png 384w, http://lauracowen.co.uk/blog/wp-content/uploads/2010/07/flights-carbontonnesbyreason-300x259.png 300w" sizes="(max-width: 384px) 100vw, 384px" /></a>
-</p>
+![Tonnes of CO2 by primary reason for the flight.](uploads/2010/07/flights-carbontonnesbyreason.png)
 
 The greatest proportion of emissions was due to flights for work, that&#8217;s not too surprising as I work for an US company but only four of the eight flights making up that large segment were actually long-haul. Two were short-hauls within the US, and two were short-hauls to Europe, which just goes to show how big an impact transatlantic flights alone have on greenhouse gas emissions. The two next largest categories of CO2 emissions are Conferences (non-work-related) and Weddings, both of which include one return flight to the US. In contrast, although the greatest number of flights is down to holidays, they&#8217;ve all been in Europe so the CO2 emissions per flight, and overall, are lower.
 

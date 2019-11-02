@@ -27,9 +27,7 @@ So after completing a smaller practice project last Spring, I decided to tackle 
 
 Here&#8217;s a photo of me modelling it, catalogue-style:
 
-<p style="text-align: center;">
-  <span style="color: #0000ee;"><span style="text-decoration: underline;"><span style="color: #000000;"><a href="http://lauracowen.co.uk/blog/wp-content/uploads/2010/03/MG_6393-20pc.jpg"><img class="aligncenter" title="Magazine pose for my completed crochet project." src="http://www.lauracowen.co.uk/blog/wp-content/uploads/2010/03/MG_6393-10pc-199x300.jpg" alt="Magazine pose for my completed crochet project." width="199" height="300" /></a></span></span></span>
-</p>
+![Magazine pose for my completed crochet project.](uploads/2010/03/MG_6393-20pc.jpg)
 
 I&#8217;m really pleased with how it came out. There was a moment last weekend when it seemed I wouldn&#8217;t be able to complete the second sleeve because I&#8217;d run out of yarn, and my original supplier was permanently out of stock. The combined wonders of Google and Ebay saved the day.
 

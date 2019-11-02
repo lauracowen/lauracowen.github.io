@@ -13,7 +13,7 @@ tags:
 ---
 Eagle-eyed [AndySC](https://twitter.com/andysc/ "AndySC on Twitter") was out and about visiting [Nuffield Place](http://www.nationaltrust.org.uk/nuffield-place/ "Nuffield Place") and spotted this for [Tampon Club](http://www.tampon.club/ "Tampon Club website"):
 
-<img src="http://lauracowen.co.uk/blog/wp-content/uploads/2015/06/tamponclub-wwII.png" alt="tamponclub-wwII" width="722" height="965" class="aligncenter size-full wp-image-2264" srcset="http://lauracowen.co.uk/blog/wp-content/uploads/2015/06/tamponclub-wwII.png 722w, http://lauracowen.co.uk/blog/wp-content/uploads/2015/06/tamponclub-wwII-224x300.png 224w, http://lauracowen.co.uk/blog/wp-content/uploads/2015/06/tamponclub-wwII-449x600.png 449w" sizes="(max-width: 722px) 100vw, 722px" /> 
+![](uploads/2015/06/tamponclub-wwII.png)
 
 > &#8220;an early example of someone taking @tampon_club needs into account!&#8221;  
 > &#8212; AndySC 
