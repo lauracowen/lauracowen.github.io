@@ -34,7 +34,7 @@ Her post (really, [go read it now](http://alicebartlett.co.uk/blog/tampon-club "
 
 It took longer than it should&#8217;ve but, as of this Wednesday: ta-da!
 
-![](uploads/2014/10/photo.jpg)
+![](/assets/uploads/2014/10/photo.jpg)
 
 If you use the DE3 women&#8217;s toilets, let us know what you think. Please use the supplies and feel free to contribute if you want to.
 

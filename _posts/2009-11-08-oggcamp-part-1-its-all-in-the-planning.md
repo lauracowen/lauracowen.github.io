@@ -61,7 +61,7 @@ I&#8217;m not sure whether an Open Source event has ever taken the village fete 
 
 ## Website
 
-![OggCamp badge](uploads/2009/08/oggcamp-badge-alternate.png)
+![OggCamp badge](/assets/uploads/2009/08/oggcamp-badge-alternate.png)
 
 Meanwhile, Fab was getting us all sorted in the digital world. He speedily knocked up an <a title="OggCamp website" href="http://oggcamp.org/2009" target="_blank">OggCamp website</a> and a very cool logo, as well as some digital badges for us all and others to strategically place in blog posts to publicise the event. Somewhere along the way we&#8217;d had a vote on names and OggCamp came out on top &#8211; it fitted the &#8216;pithy title&#8217; requirement, and it chimed nicely with the fact that the two podcasts focus on the open source world and both release a .ogg (open standard) format of their episodes (the &#8216;camp&#8217; part nods to the unconference/barcamp style of scheduling we were planning to adopt).
 
@@ -90,7 +90,7 @@ By the end of September, more than 60 people had signed up to the Facebook event
 LRL at least knew that they were oversubscribed and were able to say &#8216;no ticket, no entry&#8217;. We of course had no idea how many might turn up and wouldn&#8217;t know until the morning itself. We did start to get a little nervous at this point about having too many people turn up instead of too few. Which is kindof a nice situation to be in but also not.
 
 In saner moments, though, we figured we could possibly get about 100 people. Which would be a very nice, and very satisfying, number. Even more so if they each bought a mug so that we would break even and so that we wouldn&#8217;t have stacks of OggCamp mugs left over to store indefinitely in someone&#8217;s house.  
-![OggCamp ad in Linux Format](uploads/2009/11/IMG_4019-300x225.jpg) 
+![OggCamp ad in Linux Format](/assets/uploads/2009/11/IMG_4019-300x225.jpg) 
 
 And finally, our most impressive marketing came courtesy of <a title="Linux Format website" href="http://linuxformat.com/" target="_blank">Linux Format</a> magazine who kindly ran a free full-page ad for OggCamp. Unbeknownst to us, they also featured us in their Community News column on the opposite page from the advert. Which was all very cool and exciting.
 

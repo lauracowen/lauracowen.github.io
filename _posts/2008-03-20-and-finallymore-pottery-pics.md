@@ -21,7 +21,7 @@ tags:
 ---
 I picked up my final piece of pottery course work tonight. Formally known as &#8216;Unit 03 final piece&#8217;, here are the best of my mugs:
 
-![Mugs](uploads/2008/03/20032008001-small.jpg) 
+![Mugs](/assets/uploads/2008/03/20032008001-small.jpg) 
 
 Unfortunately, I have ended up with fewer working mugs than people who have hinted they&#8217;d like one. And I definitely owe my parents some pottery to clutter up their house after [I kept the sunflower planter](http://www.lauracowen.co.uk/blog/2008/02/11/four-months-in-the-making-ormy-pottery-project/ "Four Months in the Making (or…My Pottery Project) post") (a.k.a. &#8216;Unit 02&#8217;).
 
