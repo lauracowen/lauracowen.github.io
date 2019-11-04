@@ -51,3 +51,7 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title/
+
+# Disqus settings
+disqus:
+  shortname: lauracowen

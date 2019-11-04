@@ -4,6 +4,7 @@ title: Shiny new boiler
 date: 2006-04-26T21:54:18+00:00
 author: Laura
 layout: post
+comments: true
 guid: http://www.lauracowen.co.uk/blog/2006/04/26/shiny-new-boiler/
 permalink: /blog/2006/04/26/shiny-new-boiler/
 tweet_this_url:
