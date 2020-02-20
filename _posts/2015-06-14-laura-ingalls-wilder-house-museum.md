@@ -4,6 +4,7 @@ title: 'Laura Ingalls Wilder House &#038; Museum, Mansfield, Missouri'
 date: 2015-06-14T10:00:58+00:00
 author: Laura
 layout: post
+comments: true
 guid: http://lauracowen.co.uk/blog/?p=2195
 permalink: /blog/2015/06/14/laura-ingalls-wilder-house-museum/
 dsq_thread_id:
