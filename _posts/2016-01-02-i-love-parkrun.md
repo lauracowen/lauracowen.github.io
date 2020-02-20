@@ -4,6 +4,7 @@ title: Why I love parkrun
 date: 2016-01-02T14:00:39+00:00
 author: Laura
 layout: post
+comments: true
 guid: http://lauracowen.co.uk/blog/?p=2298
 permalink: /blog/2016/01/02/i-love-parkrun/
 dsq_thread_id:
