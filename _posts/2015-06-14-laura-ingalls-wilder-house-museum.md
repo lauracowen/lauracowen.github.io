@@ -1,6 +1,6 @@
 ---
 id: 2195
-title: 'Laura Ingalls Wilder House &#038; Museum, Mansfield, Missouri'
+title: 'Laura Ingalls Wilder House and Museum, Mansfield, Missouri'
 date: 2015-06-14T10:00:58+00:00
 author: Laura
 layout: post
