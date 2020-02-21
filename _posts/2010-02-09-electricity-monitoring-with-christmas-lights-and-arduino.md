@@ -24,6 +24,7 @@ tags:
 ---
 This was my geeky Christmas project:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TL8Y9Y23mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What&#8217;s happening in the video&#8230;
