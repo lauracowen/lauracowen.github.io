@@ -24,7 +24,7 @@ The problem is that while the soles of the boots are tough and pretty durable in
 
 That&#8217;s the left one. The right one isn&#8217;t quite so bad:
 
-![](/assets/uploads/2012/11/IMG_0986-cropped1.jpg)
+![](/assets/uploads/2012/11/IMG_0986-cropped.jpg)
 
 It seemed like a good opportunity to finally try <a title="Sugru website" href="https://sugru.com/" target="_blank">Sugru</a>. I needed black Sugru so I bought a pack of black and white (4 5g packets of each). Having never used it before, it was hard to know how much I&#8217;d need but each 5g packet goes surprisingly far.
 
