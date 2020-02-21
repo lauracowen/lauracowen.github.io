@@ -1,6 +1,6 @@
 ---
 id: 95
-title: 'And finally&#8230;.(more pottery pics)'
+title: 'And finally... (more pottery pics)'
 date: 2008-03-20T22:05:46+00:00
 author: Laura
 layout: post
