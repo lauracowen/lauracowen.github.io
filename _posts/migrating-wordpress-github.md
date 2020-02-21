@@ -163,6 +163,8 @@ Because I haven't set the `base_url` property in the \_config.yaml file, it wasn
 
 (https://desiredpersona.com/disqus-comments-jekyll/)
 
+https://github.com/jekyll/minima/issues/125
+
 ## Encoding of punctuation in title
 
 Migration process seems to have replaced punctuation symbols with their respective ascii codes; eg an ellipsis (`...`) with `	&#8230;`.
