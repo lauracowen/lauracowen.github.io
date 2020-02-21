@@ -20,7 +20,7 @@ categories:
 tags:
   - Ubuntu
 ---
-<span style="font-size: 13px;">Back in July, I bought a </span><a style="font-size: 13px;" href="http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop">Dell XPS 13 Ubuntu (aka Developer Edition)</a><span style="font-size: 13px;"> laptop. It is a thing of beauty; the screen, awesome (1920 x 1080; full HD). The XPS 13 comes with Ubuntu 12.04 installed by default, along with some additional software from Dell to make the hardware work. 12.04 was, afterall, a year old already by then.</span>
+Back in July, I bought a <a href="http://www.dell.com/learn/us/en/555/campaigns/xps-linux-laptop">Dell XPS 13 Ubuntu (aka Developer Edition)</a> laptop. It is a thing of beauty; the screen, awesome (1920 x 1080; full HD). The XPS 13 comes with Ubuntu 12.04 installed by default, along with some additional software from Dell to make the hardware work. 12.04 was, afterall, a year old already by then.
 
 Unfortunately, not everything works out the box. This post is about how to make them work. I might, another time, write about the pleasant but frustrating Dell &#8217;24/7&#8242; ProSupport  warranty process (though [@DellCaresPRO](https://twitter.com/DellCaresPRO) is pretty responsive).
 
@@ -37,11 +37,11 @@ These are the problems I found (almost all of them had already been reported as�
 
 ##  Fixes
 
-<span style="font-size: 13px;">I installed the </span><span style="font-size: 13px;">following two packages from the Ubuntu repositories:</span>
+I installed the following two packages from the Ubuntu repositories:
 
-<pre style="padding-left: 30px;">linux-generic-lts-quantal</pre>
+`linux-generic-lts-quantal`
 
-<pre style="padding-left: 30px;">xserver-xorg-lts-quantal</pre>
+`xserver-xorg-lts-quantal`
 
 These install kernels and associated graphics drivers from future versions of Ubuntu. Basically, it means that when the bugs are fixed in future versions, you can use those fixes without having to upgrade the rest of the machine. The packages you&#8217;ll get are [listed on the Ubuntu wiki](http://packages.ubuntu.com/quantal-updates/kernel/). You can check which kernel version you&#8217;re using on your laptop by running the command &#8216;uname -a&#8217;.
 
