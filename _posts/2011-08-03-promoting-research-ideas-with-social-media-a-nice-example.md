@@ -45,10 +45,6 @@ I don&#8217;t know whether <a title="Andrew Hayes's website" href="http://www.af
 
 ![Facebook Discussion list of topics](/assets/uploads/2011/08/modemed-facebook-screenshot.png)
 
-<!-->
-<center>
-  <a href="http://www.facebook.com/group.php?gid=44574520333&v=app_2373072738"><img class="aligncenter size-medium wp-image-871" title="Facebook Discussion list of topics" src="http://www.lauracowen.co.uk/blog/wp-content//assets/uploads/2011/08/modemed-facebook-screenshot-300x251.png" alt="Facebook Discussion list of topics" width="300" height="251" /></a>
-</center>-->
 So Hayes & Preacher have done two things:
 
   * **Written <a title="Macros for SPSS on Andrew Hayes's website" href="http://www.afhayes.com/spss-sas-and-mplus-macros-and-code.html" target="_blank">macros to extend SPSS</a>**  
