@@ -12,13 +12,10 @@ categories:
 I made something. Better still, I upcycled the festival wellies I bought for [WOMAD 2010](http://lauracowen.co.uk/blog/2010/11/23/being-a-book-in-the-human-library-at-womad2010-a-tale-in-tweets/ "A book in the Human Library at WOMAD2010: A tale in tweets…"). Ta-da:
 
 ![](/assets/2014-Aug-festival-welly-planter.jpg)
-  
-
 
 This is what they looked like when I started:
 
 ![](/assets/2014-Aug-festival-welly-planter-before.jpg)
-
 
 Then I drilled holes for drainage in the soles:
 
@@ -34,10 +31,9 @@ I fastened the two wellies together once standing using a couple of clothes pegs
 
 And here is my festival welly planter with added cat:
 
-
 ![](/assets/2014-Aug-festival-welly-planter-after-cat.jpg)
 
 
-_Update:_ The planter lasted another couple of years but had faded a lot already after just one year of weather and south-facing sunshine:
+_Update 2020:_ The planter lasted another couple of years but had faded a lot already after just one year of weather and south-facing sunshine:
 
 ![](/assets/2014-Aug-festival-welly-planter-July2015.jpg)
