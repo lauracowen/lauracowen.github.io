@@ -1,6 +1,6 @@
 ---
 id: 664
-title: 'A book in the Human Library at WOMAD2010: A tale in tweets&#8230;'
+title: 'A book in the Human Library at WOMAD2010: A tale in tweets...'
 date: 2010-11-23T23:29:56+00:00
 author: Laura
 layout: post
