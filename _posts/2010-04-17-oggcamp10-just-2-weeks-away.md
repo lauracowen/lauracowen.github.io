@@ -1,6 +1,6 @@
 ---
 id: 529
-title: 'OggCamp10 &#8211; Liverpool, City of Culture'
+title: 'OggCamp10 - Liverpool, City of Culture'
 date: 2010-04-17T20:20:16+00:00
 author: Laura
 layout: post
