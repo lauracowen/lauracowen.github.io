@@ -11,7 +11,7 @@ Wordpress plugins (installing new ones) and using dashboard
 Docker installed and the basics (though commands you need are given)
 
 
-== Docker
+## Docker
 Docker container for running Jekyll locally without installing it:
 https://github.com/envygeeks/jekyll-docker/blob/master/README.md#standard (standard/default one is fine)
 
@@ -32,7 +32,7 @@ Ta-da!
 
 You can edit the values of the title, email, description:, and twitter/github usernames now but leave the other values as they are. Save `config.yaml` then CTRL+C and docker run to pick up your changes.
 
-=== Performance improvement
+## Performance improvement
 
 You'll notice that the docker container installs a load of gems before actually starting the server. When working on the website, you can add/change/remove individual pages without restarting the server, but for any config changes (which you'll do a lot at the start), you'll need to keep killing and restarting the server. So it's worth caching these gem installations, you can do this by instead using this run command, which mounts a second location into which the gems are installed the first time you run the container but then aren't reinstalled each time you run the container subsequently:
 
@@ -43,7 +43,7 @@ You'll notice that the docker container installs a load of gems before actually 
 (you'll thank me later, as I thanked @fraz3alpha who advised me to do this)
 
 
-== Export posts from Wordpress
+## Export posts from Wordpress
 
 In Wordpress dashboard, run backups (eg Dropbox Backup & Restore and Tools > Export at least to grab the text of your posts). Tho not doing anything to the site so this is just a usual precaution.
 
@@ -56,23 +56,23 @@ Extract the zip file locally. Although Ben's exporter creates a nice little site
 The images are currently pulled in from your existing Wordpress site but we'll deal with that later.
 
 
-== Fix up the URLs
+## Fix up the URLs
 
 The post files each has a `permalink` entry in its front matter, which is useful because this means it's fairly easy to ensure that you don't break the original links.
 
-=== Removing .html suffixes by default
+### Removing .html suffixes by default
 
 In my Wordpress installation, my URLs are of the format: `http://lauracowen.co.uk/blog/2016/01/02/i-love-parkrun/` not `http://lauracowen.co.uk/blog/2016/01/02/i-love-parkrun.html`, as Jeykll does automatically. The only reason the posts aren't displaying with `.html` in the new site is because of the `permalink` entry at the top of each file. New posts, unless you include a `permalink` in every file, will by default have `.html` suffixes. I didn't want this.
 
 Open `config.yaml` and add to the end of it `permalink: /:year/:month/:day/:title/`. CTRL+C and docker run to pick up the changes.
 
-=== Including `/blog` prefixes
+### Including `/blog` prefixes
 
 Also notice my WP URLs have the string `/blog` after the domain and before the post-specific part of the URL (eg `/blog/2016/01/02/i-love-parkrun/`, not `/2016/01/02/i-love-parkrun`). Can easily set this for the whole site by setting the `baseurl` in the config.yaml.
 
 Don't touch the `url` value though or you won't be able to view the site locally. check this
 
-=== Including `/blog` prefix only on blog posts
+### Including `/blog` prefix only on blog posts
 
 
 On WP, `http://lauracowen.co.uk/` redirects to `http://lauracowen.co.uk/blog/`. On GitHub, I'd like to have only the blog posts in the `/blog` sub-dir and anything else at a higher level. To do this, we need to group files within the site according to 'collections'. https://jekyllrb.com/docs/collections/
@@ -99,7 +99,7 @@ So move into the `_posts` directory then run:
 `sed --in-place -e 's/permalink: /permalink: \/blog/' *.md` (before running it against `*.md`, try it on a single file name first to to check it works)
 
 
-== Push to GitHub and check as GitHub Pages
+## Push to GitHub and check as GitHub Pages
 
 GitHub: create a new repo but don't check any boxes to create any files in the repo - it must stay empty or you'll have problems when you try to commit your files.
 
@@ -125,7 +125,7 @@ At this point, I noticed my images hadn't copied down from WP.
 
 
 
-== Export media from Wordpress
+## Export media from Wordpress
 
 My Wordpress host, Clook.net, provides cPanel so I can use the browser-based file manager to zip up and download the `uploads` directory. There are WP plugins to export media but they needed a newer version of PHP than I have installed so I didn't try them (search for new plugins with something like 'export media').
 
@@ -133,7 +133,7 @@ Took the opportunity to delete a load of my old blog posts that are of no intere
 
 Jekyll doesn't recognise sub-directories of image files in the `_posts` directory. You need to create a directory in the root of the project (eg `assets`) which Jekyll then pulls in. To reference an image from a post, you then use the format `![alt text](/assets/image_name.png)` - the slash (`/`) before `assets` is important because it tells Jekyll that the `assets` directory is in the root of the project. I used a `sed` command again to update the references to image files from my posts.
 
-== Export comments from Wordpress
+## Export comments from Wordpress
 
 (don't take Wordpress site down until everything's done)
 
@@ -141,8 +141,28 @@ https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
 
 https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions
 
+== Import comments into Disqus
 
-== Things not yet working
+As in instructions but still didn't work.
+
+Turned out needed in \_config.yaml (think this was automatically added):
+
+```
+# Disqus settings
+disqus:
+  shortname: "lauracowen"
+```
+And, needed to create an \_includes directory with a `disqus_comments.html` file in it containing the [Universal Embed Code](https://lauracowen.disqus.com/admin/universalcode/) from Disqus. The important lines are:
+
+```
+      this.page.url = 'https://www.lauracowen.co.uk{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+
+```
+Because I haven't set the `base_url` property in the \_config.yaml file, it wasn't prefixing the value of `this.page.url` properly so Disqus was trying and failing to load on each blog post.
+
+
+## Things not yet working
 
 * Embedded pins from Pinterest
 * Embedded slides from Slideshare(?)
