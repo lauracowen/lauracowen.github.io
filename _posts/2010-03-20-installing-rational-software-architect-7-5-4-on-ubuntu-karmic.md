@@ -58,36 +58,25 @@ There are a few things that prevent this just happening (some are generic Linux 
 
 So here&#8217;s what you need to do (at least, this is what I did and hopefully will work for you to to get a running WAS server in RSA):
 
-  1. Change Ubuntu&#8217;s /bin/sh to use bash instead of dash.  
-    In a terminal (sorry it&#8217;s the command line but you&#8217;re changing some system settings here that you would very very rarely have to do normally, or just if WAS didn&#8217;t specify bash specifically), run the following command and select the bash option as the default for /bin/sh: `sudo dpkg-reconfigure dash`
-    (As pointed out by <a title="Dom Evans's Twitter page" href="http://www.twitter.com/oldmanuk" target="_blank">@oldmanuk</a> (Dom Evans), this is the proper way to reconfigure where /bin/sh points to (though I used <a title="Gavin's blog post about installing Ubuntu on his Lenovo W500 laptop" href="http://www.gavinwillingham.com/linux-on-w500.html" target="_blank">Gavin&#8217;s method</a>). )
-    
-    After you&#8217;ve created your WAS profile and everything&#8217;s up and running nicely, run the command again to change back to using dash. The benefit of using dash is speedier boot time, which is lost if you leave the setting as bash (see <https://wiki.ubuntu.com/DashAsBinSh> &#8211; thanks Dom).
-    
-    Now you&#8217;ve sorted out the bash/dash problem. One down; two to go.</li> 
-    
-      * Check that you have a version of xulrunner installed (I have no idea what xulrunner is for but, looking in Synaptic Package Manager, my Ubuntu installation included xulrunner-1.9l.1-gnome-support, but not the xulrunner package itself, which seems to be fine for RSA purposes).
-      * In your RSA installation, find the eclipse.ini file. I installed RSA to the default location so mine was in /opt/IBM/SDP. In a terminal change to that directory: 
-        <pre>cd /opt/IBM/SDP</pre>
-    
-      * Open the eclipse.ini file in a text editor, such as gedit: 
-        <pre>sudo gedit eclipse.ini</pre>
-    
-      * Add to the end of the file the following line: <pre dir="ltr">-Dorg.eclipse.swt.browser.XULRunnerPath=/usr/lib/xulrunner</pre>
+1. Change Ubuntu&#8217;s /bin/sh to use bash instead of dash:
+
+   1. In a terminal (sorry it&#8217;s the command line but you&#8217;re changing some system settings here that you would very very rarely have to do normally, or just if WAS didn&#8217;t specify bash specifically), run the following command and select the bash option as the default for /bin/sh: `sudo dpkg-reconfigure dash` (As pointed out by <a title="Dom Evans's Twitter page" href="http://www.twitter.com/oldmanuk" target="_blank">@oldmanuk</a> (Dom Evans), this is the proper way to reconfigure where /bin/sh points to, though I used <a title="Gavin's blog post about installing Ubuntu on his Lenovo W500 laptop" href="http://www.gavinwillingham.com/linux-on-w500.html" target="_blank">Gavin&#8217;s method</a>.)
+   2. After you&#8217;ve created your WAS profile and everything&#8217;s up and running nicely, run the command again to change back to using dash. The benefit of using dash is speedier boot time, which is lost if you leave the setting as bash (see <https://wiki.ubuntu.com/DashAsBinSh> &#8211; thanks Dom).
+2. Now you&#8217;ve sorted out the bash/dash problem, check that you have a version of xulrunner installed (I have no idea what xulrunner is for but, looking in Synaptic Package Manager, my Ubuntu installation included xulrunner-1.9l.1-gnome-support, but not the xulrunner package itself, which seems to be fine for RSA purposes):
+   
+    1. In your RSA installation, find the eclipse.ini file. I installed RSA to the default location so mine was in /opt/IBM/SDP. In a terminal change to that directory:  `cd /opt/IBM/SDP`
+    2. Open the eclipse.ini file in a text editor, such as gedit: `sudo gedit eclipse.ini`
+    3. Add to the end of the file the following line: `-Dorg.eclipse.swt.browser.XULRunnerPath=/usr/lib/xulrunner`(From <a title="Ubuntu forum post about making Eclipse apps start on Karmic" href="http://ubuntuforums.org/showthread.php?t=923583" target="_blank">an Ubuntu forum post</a>.
+3. Now you&#8217;ve sorted out the &#8216;xulrunner&#8217; problem and you can actually start RSA: 
+
+   1. Start RSA from the Applications menu: **Applications > IBM Software Delivery Platform > IBM Rational Software Architect for WebSphere 7.5.4**.
+   2. RSA should suggest a directory in your home directory in which to put the RSA workspace. That&#8217;s fine; I just accepted the suggested location.
+   3. When RSA has opened (NB, my Welcome view doesn&#8217;t load &#8211; I don&#8217;t think that&#8217;s a problem), give it a moment to think, then it&#8217;ll pop up a wizard to create a WAS profile.
+   4. In the profile wizard, clear the option about security unless you know what you&#8217;re doing with WAS security and have a need to use it in a development environment.
+   5. You&#8217;ll also notice that there&#8217;s a warning about the currently selected location for creating the profile. This is the third problem I listed above. The default location shown is for creating the profile in the installation directory of RSA. Change the location to a directory in your home directory. For instance, I told it to use /home/laura/IBM/profiles.
+   6. When the wizard has created the profile (which will take a few moments &#8211; you can see the activity in the bottom-right of the RSA window), the default server for the profile is listed in the Servers view on the right-hand-side of the RSA window. The server is listed as &#8216;stopped&#8217;.
+   7. Right-click the server then click Profile. This opens a dialog box about the profile; I just accepted the defaults then it failed to start the server (the error said it had failed to start within 300 seconds). But when I repeated this step, the server started.
         
-        (From <a title="Ubuntu forum post about making Eclipse apps start on Karmic" href="http://ubuntuforums.org/showthread.php?t=923583" target="_blank">an Ubuntu forum post</a>.)
+And that&#8217;s as far as I&#8217;ve got but it&#8217;s further than ever before. If I come across any more gotchas, or take some screenshots, I&#8217;ll update this post.
         
-        Now you&#8217;ve sorted out the &#8216;xulrunner&#8217; problem and you can actually start RSA. Two down; one to go.</li> 
-        
-          * Start RSA from the Applications menu: **Applications > IBM Software Delivery Platform > IBM Rational Software Architect for WebSphere 7.5.4**.
-          * RSA should suggest a directory in your home directory in which to put the RSA workspace. That&#8217;s fine; I just accepted the suggested location.
-          * When RSA has opened (NB, my Welcome view doesn&#8217;t load &#8211; I don&#8217;t think that&#8217;s a problem), give it a moment to think, then it&#8217;ll pop up a wizard to create a WAS profile.
-          * In the profile wizard, clear the option about security unless you know what you&#8217;re doing with WAS security and have a need to use it in a development environment.
-          * You&#8217;ll also notice that there&#8217;s a warning about the currently selected location for creating the profile. This is the third problem I listed above. The default location shown is for creating the profile in the installation directory of RSA. Change the location to a directory in your home directory. For instance, I told it to use /home/laura/IBM/profiles.
-          * When the wizard has created the profile (which will take a few moments &#8211; you can see the activity in the bottom-right of the RSA window), the default server for the profile is listed in the Servers view on the right-hand-side of the RSA window.  
-            The server is listed as &#8216;stopped&#8217;.
-          * Right-click the server then click Profile. This opens a dialog box about the profile; I just accepted the defaults then it failed to start the server (the error said it had failed to start within 300 seconds). But when I repeated this step, the server started.</ol> 
-        
-        And that&#8217;s as far as I&#8217;ve got but it&#8217;s further than ever before. If I come across any more gotchas, or take some screenshots, I&#8217;ll update this post.
-        
-        Yes, it is a pain to have to do all this but remember that WAS isn&#8217;t supported (as far as I know) on Ubuntu Karmic. If you want it easier, install it on something that is supported. If you want it on Ubuntu, I hope this post (and the others I cribbed information from) helps. 🙂
+Yes, it is a pain to have to do all this but remember that WAS isn&#8217;t supported (as far as I know) on Ubuntu Karmic. If you want it easier, install it on something that is supported. If you want it on Ubuntu, I hope this post (and the others I cribbed information from) helps. 🙂
