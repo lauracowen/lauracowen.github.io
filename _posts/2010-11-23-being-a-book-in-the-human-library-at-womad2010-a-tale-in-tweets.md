@@ -26,7 +26,7 @@ tags:
 ---
 One Sunday morning in June, while I was lazing in bed, I received this tweet:
 
-![ow about it @lauracowen? would be good to have a female geek @ #WOMAD](/assets/uploads/2010/07/tweet.png)
+![How about it @lauracowen? would be good to have a female geek @ #WOMAD](/assets/uploads/2010/07/tweet.png)
 
 
 I spent the next hour absorbed in reading the <a title="Human Library website" href="http://humanlibrary.org" target="_blank">Human Library website</a> and the <a title="WOMAD website" href="http://womad.org/" target="_blank">WOMAD website</a> on my mobile phone. Then:
@@ -39,8 +39,7 @@ And:
 
 So I agreed.
 
-<!--
-[<img class="aligncenter wp-image-1952 size-medium" src="http://lauracowen.co.uk/blog/wp-content//assets/uploads/2010/11/laura-agreement-300x146.png" alt="laura agreement" width="300" height="146" />](http://lauracowen.co.uk/blog/wp-content/uploads/2010/11/laura-agreement.png)-->
+![yes, I'm up for that. Sounds really interesting. Been reading the website this am. U running it both days at the festival?](/assets/uploads/2010/07/laura-agreement.png)
 
 And that was that. I was committed. In public.
 
@@ -60,14 +59,9 @@ Whilst a nice sentiment, it wasn&#8217;t quite what I was looking for. So I trie
 
 ![Okay, I'll rephrase...what stereotypes have you heard of female geeks? I promise not to believe it's your beliefs unless you say otherwise!](/assets/uploads/2010/07/laura-second-crowd-sourcing-request.png)
 
-<p style="text-align: left;">
-  I figured an example or two might be helpful to get the ball rolling.
-</p>
+I figured an example or two might be helpful to get the ball rolling.
 
-<!-->
-<p style="text-align: left;">
-  <a href="http://lauracowen.co.uk/blog/wp-content//assets/uploads/2010/11/laura-second-crowd-sourcing-request-2.png"><img class="aligncenter wp-image-1954 size-medium" src="http://lauracowen.co.uk/blog/wp-content/uploads/2010/11/laura-second-crowd-sourcing-request-2-300x105.png" alt="laura second crowd sourcing request 2" width="300" height="105" /></a>
-</p>-->
+![okay...how about..."like to get hit on by male geeks on IRC"...;)](/assets/uploads/2010/07/laura-second-crowd-sourcing-request-2.png)
 
 Then: 
 
