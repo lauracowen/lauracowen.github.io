@@ -1,6 +1,6 @@
 ---
 id: 918
-title: 'Mosquitto and Facebook&#8230;and OggCamp'
+title: 'Mosquitto and Facebook...and OggCamp'
 date: 2011-08-17T18:36:10+00:00
 author: Laura
 layout: post
