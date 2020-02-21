@@ -17,12 +17,16 @@ categories:
 tags:
   - pottery
 ---
-[<img title="Candle holder for garden." src="http://gallery.tonywhitmore.co.uk/d/5384-2/IMG_1839.jpg" border="0" alt="Candle holder for garden." hspace="3" vspace="3" width="113" height="150" align="right" />](http://gallery.tonywhitmore.co.uk/d/5384-2/IMG_1839.jpg "Candle holder for the garden.")  
-Tonight, I picked up this term&#8217;s output from my pottery class. Since Easter, I made two mugs and a vase (all centred by myself &#8211; the bit where the clay flies off the wheel if you don&#8217;t do it properly), a kind of squashed bowl (not centred myself), and a hand-moulded (thumbpot) candle holder for the garden.  
-[<img title="Tea caddy" src="http://gallery.tonywhitmore.co.uk/d/5372-2/IMG_1433.jpg" border="0" alt="Tea caddy" hspace="3" vspace="3" width="135" height="150" align="left" />](http://gallery.tonywhitmore.co.uk/d/5372-2/IMG_1433.jpg "Tea caddy")
+![Candle holder for the garden.](/assets/2007-June-pottery-garden-candle-holder.png)
+ 
+Tonight, I picked up this term's output from my pottery class. Since Easter, I made two mugs and a vase (all centred by myself - the bit where the clay flies off the wheel if you don't do it properly), a kind of squashed bowl (not centred myself), and a hand-moulded (thumbpot) candle holder for the garden.  
 
-Unfortunately, I didn&#8217;t stir the glaze well enough so the colour is rather washed out. And the mugs don&#8217;t quite match the tea caddy that I made last term.
+![Mugs.](/assets/2007-June-pottery-mugs.png)
+
+Unfortunately, I didn't stir the glaze well enough so the colour is rather washed out. And the mugs don't quite match the tea caddy that I made last term.
+
+![Tea caddy for work.](/assets/2007-June-pottery-tea-caddy.png)
 
 The tea caddy is probably the best finished piece so far but the mugs are my best achievement.
 
-I&#8217;ve signed up for more classes in September.
+I've signed up for more classes in September.
