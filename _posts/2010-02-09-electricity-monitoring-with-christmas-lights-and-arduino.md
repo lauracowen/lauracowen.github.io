@@ -39,7 +39,7 @@ In my house I have a <a title="Current Cost website" href="http://www.currentcos
 
 This slideshow on Slideshare shows the overall connections between all the parts, and some pretty pictures:
 
-[slideshare id=3126633&doc=arduino-presentation-100210132810-phpapp02]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9WDNbjvTiYp3om" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lauracowen/arduino-christmas-lights-to-monitor-energy" title="Arduino Christmas Lights to Monitor Energy" target="_blank">Arduino Christmas Lights to Monitor Energy</a> </strong> from <strong><a href="https://www.slideshare.net/lauracowen" target="_blank">Laura Cowen</a></strong> </div>
 
 **Update:**
 
