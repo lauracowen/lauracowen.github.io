@@ -59,9 +59,7 @@ There are a few things that prevent this just happening (some are generic Linux 
 So here&#8217;s what you need to do (at least, this is what I did and hopefully will work for you to to get a running WAS server in RSA):
 
   1. Change Ubuntu&#8217;s /bin/sh to use bash instead of dash.  
-    In a terminal (sorry it&#8217;s the command line but you&#8217;re changing some system settings here that you would very very rarely have to do normally, or just if WAS didn&#8217;t specify bash specifically), run the following command and select the bash option as the default for /bin/sh:</p> 
-    <pre>sudo dpkg-reconfigure dash</pre>
-    
+    In a terminal (sorry it&#8217;s the command line but you&#8217;re changing some system settings here that you would very very rarely have to do normally, or just if WAS didn&#8217;t specify bash specifically), run the following command and select the bash option as the default for /bin/sh: `sudo dpkg-reconfigure dash`
     (As pointed out by <a title="Dom Evans's Twitter page" href="http://www.twitter.com/oldmanuk" target="_blank">@oldmanuk</a> (Dom Evans), this is the proper way to reconfigure where /bin/sh points to (though I used <a title="Gavin's blog post about installing Ubuntu on his Lenovo W500 laptop" href="http://www.gavinwillingham.com/linux-on-w500.html" target="_blank">Gavin&#8217;s method</a>). )
     
     After you&#8217;ve created your WAS profile and everything&#8217;s up and running nicely, run the command again to change back to using dash. The benefit of using dash is speedier boot time, which is lost if you leave the setting as bash (see <https://wiki.ubuntu.com/DashAsBinSh> &#8211; thanks Dom).
