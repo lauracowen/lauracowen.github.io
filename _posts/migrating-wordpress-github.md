@@ -167,6 +167,10 @@ Because I haven't set the `base_url` property in the \_config.yaml file, it wasn
 
 Migration process seems to have replaced punctuation symbols with their respective ascii codes; eg an ellipsis (`...`) with `	&#8230;`.
 
+## Fixing missing images
+
+Occasionally, images missing. May have been missing already from my Wordpress blog and I hadn't noticed. Anyway, I went through and re-added any images I could find.
+
 ## Things not yet working
 
 * Embedded pins from Pinterest and slides from Slideshare. Don't know how to insert the `<script>...</script>` line into markdown in the right place to work. Decided not to bother investigating much as not all the images I needed appear to still be uploaded to my Pinterest board. So just replaced with static images.
