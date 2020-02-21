@@ -161,8 +161,12 @@ And, needed to create an \_includes directory with a `disqus_comments.html` file
 ```
 Because I haven't set the `base_url` property in the \_config.yaml file, it wasn't prefixing the value of `this.page.url` properly so Disqus was trying and failing to load on each blog post.
 
+(https://desiredpersona.com/disqus-comments-jekyll/)
+
+## Encoding of punctuation in title
+
+Migration process seems to have replaced punctuation symbols with their respective ascii codes; eg an ellipsis (`...`) with `	&#133;`.
 
 ## Things not yet working
 
-* Embedded pins from Pinterest
-* Embedded slides from Slideshare(?)
+* Embedded pins from Pinterest and slides from Slideshare. Don't know how to insert the `<script>...</script>` line into markdown in the right place to work. Decided not to bother investigating much as not all the images I needed appear to still be uploaded to my Pinterest board. So just replaced with static images.
