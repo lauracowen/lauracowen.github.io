@@ -165,8 +165,9 @@ Because I haven't set the `base_url` property in the \_config.yaml file, it wasn
 
 ## Encoding of punctuation in title
 
-Migration process seems to have replaced punctuation symbols with their respective ascii codes; eg an ellipsis (`...`) with `	&#133;`.
+Migration process seems to have replaced punctuation symbols with their respective ascii codes; eg an ellipsis (`...`) with `	&#8230;`.
 
 ## Things not yet working
 
 * Embedded pins from Pinterest and slides from Slideshare. Don't know how to insert the `<script>...</script>` line into markdown in the right place to work. Decided not to bother investigating much as not all the images I needed appear to still be uploaded to my Pinterest board. So just replaced with static images.
+* Also, found that slideshare and youtube enable embedding with just HTML tags which work just fine when pasted into the markdown file.
