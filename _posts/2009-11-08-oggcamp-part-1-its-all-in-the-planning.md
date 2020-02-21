@@ -1,6 +1,6 @@
 ---
 id: 260
-title: 'OggCamp &#8211; Part 1: It&#8217;s all in the planning&#8230;'
+title: 'OggCamp - Part 1: It's all in the planning...'
 date: 2009-11-08T21:44:59+00:00
 author: Laura
 layout: post
