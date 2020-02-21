@@ -27,7 +27,7 @@ A couple of weekends ago, we went to the <a title="Doctor Who Official Conventio
 
 At the very start of the day, we went to see Danny Hargreaves <del>blow things up</del> talk about the Special Effects on Doctor Who. In his Q&A session (after making it snow indoors), the first question asked was &#8220;How did you get into special effects work?&#8221; and, between questions like how he blew up the Torchwood Hub and how he makes the Doctor&#8217;s hands and head fiery during a regeneration, a later question was &#8220;When did you realise you wanted to work in special effects?&#8221;. Attendees were interested not just in the fictional stories and characters but in how the programme is made and the interesting careers they might not otherwise have come across.
 
-![TARDIS console](/assets/uploads/2012/04/IMAG0443-e1414700646150.jpg)
+![TARDIS console](/assets/uploads/2012/04/tardis-console.jpg)
 
 Throughout the day, I heard audience members ask how to become costume and prosthetics designers and how to become script writers. Danny described how his team designs and creates the effects, assess the risks of blowing things up, and who they work with to make it all happen. He also explained how he came to be a trainee in the nascent world of special effects before studying Mechanical Engineering so that he could build the devices they need for Doctor Who (and the other shows he&#8217;s worked on, like Coronation Street). Directors of photography, set designers, executive producers, writers, and directors went on to talk about what their own jobs entailed day-to-day and how it all comes together to make an episode of Doctor Who.
 
