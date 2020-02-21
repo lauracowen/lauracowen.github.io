@@ -1,6 +1,6 @@
 ---
 id: 53
-title: 'Just remember to stir the glaze&#8230;'
+title: 'Just remember to stir the glaze...'
 date: 2007-06-21T20:38:04+00:00
 author: Laura
 layout: post
