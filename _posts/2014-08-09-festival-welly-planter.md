@@ -11,18 +11,18 @@ categories:
 ---
 I made something. Better still, I upcycled the festival wellies I bought for [WOMAD 2010](http://lauracowen.co.uk/blog/2010/11/23/being-a-book-in-the-human-library-at-womad2010-a-tale-in-tweets/ "A book in the Human Library at WOMAD2010: A tale in tweets…"). Ta-da:
 
-![](/assets/festival-welly-planter-closeup-Aug2014.jpg)
+![](/assets/2014-Aug-festival-welly-planter.jpg)
   
 
 
 This is what they looked like when I started:
 
-![](/assets/festival-welly-planter-before.jpg)
+![](/assets/2014-Aug-festival-welly-planter-before.jpg)
 
 
 Then I drilled holes for drainage in the soles:
 
-![](/assets/festival-welly-planter-drilled-holes.jpg)
+![](/assets/2014-Aug-festival-welly-planter-drilled-holes.jpg)
 
 I just used a 6.5mm wood drill bit (the largest I had) and drilled from the outside in. I didn&#8217;t worry about the heels because they&#8217;re probably harder to drill and the water should just run down from them anyway.
 
@@ -35,9 +35,9 @@ I fastened the two wellies together once standing using a couple of clothes pegs
 And here is my festival welly planter with added cat:
 
 
-![](/assets/festival-welly-planter-after-cat.jpg)
+![](/assets/2014-Aug-festival-welly-planter-after-cat.jpg)
 
 
 _Update:_ The planter lasted another couple of years but had faded a lot already after just one year of weather and south-facing sunshine:
 
-![](/assets/festival-welly-planter-July2015.jpg)
+![](/assets/2014-Aug-festival-welly-planter-July2015.jpg)
