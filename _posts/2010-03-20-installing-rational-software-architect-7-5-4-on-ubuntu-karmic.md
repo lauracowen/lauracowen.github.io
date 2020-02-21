@@ -1,6 +1,6 @@
 ---
 id: 473
-title: 'Installing Rational Software Architect 7.5.4 &#038; WAS 7 on Ubuntu Karmic'
+title: 'Installing Rational Software Architect 7.5.4 and WAS 7 on Ubuntu Karmic'
 date: 2010-03-20T14:25:12+00:00
 author: Laura
 layout: post
