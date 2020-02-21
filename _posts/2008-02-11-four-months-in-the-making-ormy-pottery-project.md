@@ -1,6 +1,6 @@
 ---
 id: 82
-title: 'Four Months in the Making (or&#8230;My Pottery Project)'
+title: 'Four Months in the Making (or...My Pottery Project)'
 date: 2008-02-11T22:40:17+00:00
 author: Laura
 layout: post
@@ -21,11 +21,17 @@ tags:
 ---
 Tonight I finally brought home my completed sunflower planter from my pottery class.
 
-In case my examiner is reading this: the sunflower design was inspired by Gaudi&#8217;s tiles on a house I saw in Northern Spain once; the triple planter idea was my own; the idea to do a slab pot planter was inspired by another student&#8217;s single slab pot planter last term. Also, dear examiner, I did a couple of sketched designs, made some changes to the design along the way, and did lots of test tiles to investigate the best way to glaze the pots, and, finally but mostly importantly, I recorded all my investigations, findings, and decisions in my notebook like a good little potter.
+In case my examiner is reading this: the sunflower design was inspired by Gaudi&#8217;s tiles on a house I saw in Northern Spain once; the triple planter idea was my own; the idea to do a slab pot planter was inspired by another student&#8217;s single slab pot planter last term.
+
+![](/assets/2008-Feb-pottery-sunflowers-1.png)
+
+Also, dear examiner, I did a couple of sketched designs, made some changes to the design along the way, and did lots of test tiles to investigate the best way to glaze the pots, and, finally but mostly importantly, I recorded all my investigations, findings, and decisions in my notebook like a good little potter.
+
+![](/assets/2008-Feb-pottery-sunflowers-2.png)
 
 And here&#8217;s the end result:
 
-<img style="border: 0pt none; margin: 3px;" src="http://gallery.tonywhitmore.co.uk/d/16924-2/CRW_3587.jpg" border="0" alt="Photo of my pots" hspace="3" vspace="3" width="384" height="312" /> 
+![](/assets/2008-Feb-pottery-sunflowers-3.png)
 
 At this point I must make a confession of sorts&#8230;
 
