@@ -1,23 +1,22 @@
 # Laura's postnatal reading recommendations
 
-This is a collection of the various books and related resources that I've recommended (from my own experience as a Mum of one baby; I'm not a professional at any of this) at various times on the Winchester NCT WhatsApp chat. Rather than keep spamming everyone when a new mum or dad joins the group, I've created this page. 
-
+This is a collection of the various books and related resources that I've recommended at various times on the Winchester NCT WhatsApp chat. Rather than keep spamming everyone when a new mum or dad joins the group, I've created this page. All recommendations are just based on my own experience as a Mum of one baby; I'm not a professional at any of this.
 
 ## Breastfeeding
 
 [The Positive Breastfeeding Book: Everything you need to feed your baby with confidence](https://www.amazon.co.uk/dp/B07F1XT3NZ/ref=cm_sw_r_apan_glt_30FH1892HREF43SKCG3C) 
-This book contains all the information I found out the hard way (googling at 2am and reading endless Facebook threads) during the first three months postnatal. I think every pregnant woman should read this so you have some idea what to expect and where to get help of you need it. Antenatal classes are not sufficient. It's also useful later on in your breastfeeding journey; eg returning to work.
+This book contains all the information I found out the hard way (googling at 2am and reading endless Facebook threads) during the first three months postnatal. I think every pregnant woman should read this, so you have some idea what to expect (your body will prepare for you to breastfeed whether or not you actually intend to do it) and where to get help of you need it. Antenatal classes are not sufficient. It's also useful later on in your breastfeeding journey; eg returning to work.
 
 If breastfeeding goes smoothly for you, that's all you should need. 
 
-If, however, you hit problems, especially in the early days, here are a couple of short books I found useful:
+If, however, you hit problems, especially in the early days, here are a couple of short books I found useful (we had undiagnosed tongue tie which caused pain and a lot of stress in the first few months):
 
 [Why Tongue-tie Matters (Pinter & Martin book by Sarah Oakley)](https://www.amazon.co.uk/dp/B08VX3CB3K) 
 Reviews the research on tongue tie. You don't need to read this even if your baby has tongue tie and just gets it released (cut), but it's an easy-read if you want to understand more.
 
-One thing I don't recommend (though obviously it's up to you!) is the mention of "bodywork" and osteopaths. As far as I can tell, there's no evidence that it can help improve breastfeeding (I keep meaning to email the author to check this but none is mentioned, in the book, which I think is bad form because you almost don't realise when the rest of the book is about reviewing the evidence).
+One thing I don't recommend (though obviously it's your call!) is the mention of "bodywork" and osteopaths. As far as I can tell, there's no evidence that it can help improve breastfeeding (I keep meaning to email the author to check this but there are no citations for her assertions about "bodywork" in the book, which I think is bad form because you almost don't notice that when the rest of the book is about reviewing the evidence).
 
-My personal opinion is that, without evidence that it actually works and as it's not available on the NHS, it's just a way to make money from desperate parents who will pay money for anything if they think it might help (here's [what the NHS says about the evidence for osteopathy](https://www.nhs.uk/conditions/osteopathy/)).
+My personal opinion is that, without evidence that it actually works, it's just a way to make money from desperate parents who will pay money for anything if they think it might help (here's [what the NHS says about the evidence for osteopathy](https://www.nhs.uk/conditions/osteopathy/)).
 
 [Why Breastfeeding Grief and Trauma Matter (Pinter & Martin book by Amy Brown)](https://www.amazon.co.uk/dp/B081S2X6BN) 
 Again, this is only for reading if breastfeeding doesn't work out the way you expected.
@@ -32,10 +31,12 @@ I learnt a lot from just browsing and reading the threads that other people had 
 We went the "baby-led weaning" route (i.e. finger foods from the start, no purees, hardly any spoonfeeding by us). The resources below are all relevant whichever route you take though.
 
 [Why Starting Solids Matters (Pinter & Martin Why it Matters Book 10 by Amy Brown](https://amzn.eu/dlhsEdi) 
-A short book that reviews the research evidence around starting solids. I found it useful for nutritional info among other things. Some things I learnt: why you should wait until 6 months and why there's usually no point starting solids earlier; that while there's no yet much research into baby-led weaning (as a method), there's also no evidence to support traditional puree spoonfeeding; babies innately know how much food they need, unless you override that instinct and then it's gone for good; important thing is to be responsive to baby's needs. I've read a few of those short books in that Why... Matters series - they're really good and easy to read.
+A short book that reviews the research evidence around starting solids. I found it useful for nutritional info among other things but very informative about various aspects of weaning (one-sentence summary: be responsive to baby's needs).
+
+I've read a few of those short books in that Why... Matters series - they're really good and easy to read.
 
 [What Mummy Makes](https://www.amazon.co.uk/What-Mummy-Makes-Cook-just/dp/0241455154) 
-A recipe book for meals and finger foods that are suitable from 6 months. Doesn't include purees but the author did herself start with purees so she's not anti-puree. 
+A recipe book for family meals and finger foods that are suitable from 6 months.
 
 [Mini First Aid course](https://www.minifirstaid.co.uk/)
 Not a book but an actual course. We did it through Basingstoke NCT on Zoom during lockdown (or near-lockdown). It's very good, even without being able to do hands-on practice (though I think it probably goes in better if you get some hands-on practice during the class).
