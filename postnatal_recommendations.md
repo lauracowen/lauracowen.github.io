@@ -6,7 +6,7 @@ permalink: /postnatal_recommendations/
 
 # Laura's postnatal reading recommendations
 
-This is a collection of the various books and related resources that I've recommended at various times on the Winchester NCT WhatsApp chat. Rather than keep spamming everyone when a new mum or dad joins the group, I've created this page. All recommendations are just based on my own experience as a Mum of one baby; I'm not a professional at any of this.
+This is a collection of the various books and related resources that I've recommended at various times on the Winchester NCT WhatsApp chat. Rather than keep spamming everyone when a new mum or dad joins the group, I've created this page. All recommendations are just based on my own experience as Mum of one baby; I'm not a professional at any of this.
 
 My book links are to Amazon purely because I bought most of them on Kindle (one-handed with backlight rocks; I haven't read a physical book since my baby was born).
 
