@@ -6,7 +6,7 @@ This is a collection of the various books and related resources that I've recomm
 
 Antenatal classes don't (for whatever reason) properly prepare you for breastfeeding (or for combi-feeding or even really formula feeding). Rather than spending the first three months like me, Googling and reading endless Facebook threads, just read one book (ideally before the birth):
 
-- [The Positive Breastfeeding Book: Everything you need to feed your baby with confidence](https://www.amazon.co.uk/dp/B07F1XT3NZ/ref=cm_sw_r_apan_glt_30FH1892HREF43SKCG3C) 
+- [The Positive Breastfeeding Book: Everything you need to feed your baby with confidence](https://www.amazon.co.uk/dp/B07F1XT3NZ/ref=cm_sw_r_apan_glt_30FH1892HREF43SKCG3C) (book)
  
   This book contains all the information I found out the hard way. I think every pregnant woman should read this, so you have some idea what to expect and where to get help of you need it. It's also useful later on in your breastfeeding journey; eg returning to work.
 
@@ -34,13 +34,13 @@ The author is same as The Positive Breastfeeding Book - she's really readable; I
 
 We went the "baby-led weaning" route (i.e. finger foods from the start, no purees, hardly any spoonfeeding by us). The resources below are all relevant whichever route you take though.
 
-- [Why Starting Solids Matters (Pinter & Martin Why it Matters Book 10 by Amy Brown](https://amzn.eu/dlhsEdi) 
+- [Why Starting Solids Matters (Pinter & Martin Why it Matters Book 10 by Amy Brown](https://amzn.eu/dlhsEdi) (book)
 
    A short book that reviews the research evidence around starting solids. I found it useful for nutritional info among other things but very informative about various aspects of weaning (one-sentence summary: be responsive to baby's needs).
 
    I've read a few of those short books in that Why... Matters series - they're really good and easy to read.
 
-- [What Mummy Makes](https://www.amazon.co.uk/What-Mummy-Makes-Cook-just/dp/0241455154) 
+- [What Mummy Makes](https://www.amazon.co.uk/What-Mummy-Makes-Cook-just/dp/0241455154) (book)
 
    A recipe book for family meals and finger foods that are suitable from 6 months. Some really useful things (like salt-free, skinless sausages; tuna chickpea pasties; chocolate ice cream) you can cook in batch and freeze.
 
