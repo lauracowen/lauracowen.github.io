@@ -24,7 +24,7 @@ However, if you hit problems, especially in the early days, here are a couple of
 
 - [Why Tongue-tie Matters (Pinter & Martin book by Sarah Oakley)](https://www.amazon.co.uk/dp/B08VX3CB3K) (book)
 
-  Reviews the research on tongue tie. Even if your baby has tongue tie, you don't need to read this, but it's an easy-read if you want to understand more.
+  Reviews the research on tongue tie. Even if your baby has tongue tie, you don't need to read this, but it's an easy read if you want to understand more.
 
    One thing I don't recommend (though obviously it's your call!) is the mention of "bodywork" and osteopaths. As far as I can tell, there's no evidence that it can help improve breastfeeding (I keep meaning to email the author to check this but there are no citations for her assertions about "bodywork" in the book, which you almost don't notice when the rest of the book is about reviewing the evidence). My personal opinion is that, without evidence that it actually works, it's just a way to make money from desperate parents who will pay money for anything if they think it might help (here's [what the NHS says about the evidence for osteopathy](https://www.nhs.uk/conditions/osteopathy/)).
 
@@ -42,7 +42,7 @@ We went the "baby-led weaning" route (i.e. finger foods from the start, no puree
 
 - [Why Starting Solids Matters (Pinter & Martin Why it Matters Book 10 by Amy Brown](https://amzn.eu/dlhsEdi) (book)
 
-   A short book that reviews the research evidence around starting solids. I found it useful for nutritional info among other things but very informative about various aspects of weaning (one-sentence summary: be responsive to baby's needs and don't be pressured to start early).
+   A short book that reviews the research evidence around starting solids. I found it useful for nutritional info among other things but very informative about various aspects of weaning (one-sentence summary: be responsive to baby's needs and don't feel pressured to start early).
 
    I've read a few of those short books in that Why... Matters series - they're really good and easy to read.
 
@@ -52,4 +52,4 @@ We went the "baby-led weaning" route (i.e. finger foods from the start, no puree
 
 - [Mini First Aid course](https://www.minifirstaid.co.uk/) (course; we did it on Zoom but may now be available in-person)
 
-   Really clear and practical course on first aid for babies and toddlers. We did it through Basingstoke NCT on Zoom during lockdown (or near-lockdown). It's very good, even without being able to do hands-on practice (though I think it probably goes in better if you get some hands-on practice during the class). She also sells first aid kits, which we bought as they just contain the stuff you need.
+   Really clear and practical course on first aid for babies and toddlers. We did it through Basingstoke NCT on Zoom during lockdown (or near-lockdown). It's very good, even without being able to do hands-on practice (though I think it probably goes in better if you get some hands-on practice during the class). She also sells first aid kits, which we bought as they contain the stuff you need.
