@@ -53,3 +53,11 @@ We went the "baby-led weaning" route (i.e. finger foods from the start, no puree
 - [Mini First Aid course](https://www.minifirstaid.co.uk/) (course; we did it on Zoom but may now be available in-person)
 
    Really clear and practical course on first aid for babies and toddlers. We did it through Basingstoke NCT on Zoom during lockdown (or near-lockdown). It's very good, even without being able to do hands-on practice (though I think it probably goes in better if you get some hands-on practice during the class). She also sells first aid kits, which we bought as they contain the stuff you need.
+
+## Babywearing (slings)
+
+I would now never buy a sling without having tried it out first. I had a sling consultation (on Zoom) then hired a sling for four weeks. My baby and I got a lot more confident but we were close to six months and didn't think the newborn one would last long. So we hired another one for a week but we both loved it the first time we tried it. So we bought one.
+
+- [Caroline, Sling Consultant at Bourne Green](https://www.bournegreen.co.uk/hire) (was Seaside Parenting; sling consultations on Zoom or in Bournemouth.
+
+   Caroline was really helpful. After paying for a consultation, she provides free on-going support on Facebook Messenger; eg you can post photos of your sling wearing and she can give you feedback.
