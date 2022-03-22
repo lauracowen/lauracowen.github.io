@@ -56,7 +56,7 @@ We went the "baby-led weaning" route (i.e. finger foods from the start, no puree
 
 ## Babywearing (slings)
 
-I would now never buy a sling without having tried it out first. I had a sling consultation (on Zoom) then hired a sling for four weeks. My baby and I got a lot more confident but we were close to six months and didn't think the newborn one would last long. So we hired another one for a week but we both loved it the first time we tried it. So we bought one.
+I would now never buy a sling without having tried it out first. I had a sling consultation (on Zoom) then hired a sling for four weeks. My baby and I got a lot more confident but we were close to six months and didn't think the newborn one would last long. So we hired another one for a week. We both loved it the first time we tried it so I bought one.
 
 - [Caroline, Sling Consultant at Bourne Green](https://www.bournegreen.co.uk/hire) (was Seaside Parenting; sling consultations on Zoom or in Bournemouth.
 
