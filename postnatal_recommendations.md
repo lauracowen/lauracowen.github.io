@@ -16,9 +16,26 @@ Antenatal classes don't (for whatever reason) properly prepare you for breastfee
 
 - [The Positive Breastfeeding Book: Everything you need to feed your baby with confidence](https://www.amazon.co.uk/dp/B07F1XT3NZ/ref=cm_sw_r_apan_glt_30FH1892HREF43SKCG3C) (book)
  
-  This book contains all the information I found out the hard way. I think every pregnant woman should read this, so you have some idea what to expect and where to get help of you need it. It's also useful later on in your breastfeeding journey; eg returning to work.
+  This book contains most of the information I found out the hard way. I think every pregnant woman should read this, so you have some idea what to expect and where to get help of you need it. It's also useful later on in your breastfeeding journey; eg returning to work.
 
-If breastfeeding goes smoothly for you, that's all you should need. 
+If breastfeeding goes smoothly for you, that's all you should need.
+
+### General breastfeeding help
+
+
+- Amy Brown
+
+   [Instagram](https://www.instagram.com/prof_amybrown/) - She's Professor of a research group at Swansea Uni where she does research on being a new parent, especially infant feeding. Posts useful and reassuring information about breastfeeding and new parenting.
+- Lucy Webber
+
+   [YouTube](https://www.youtube.com/channel/UCc9XrECKkJZh1DWfoa6nfAg) - Useful videos on how to latch.
+   
+   [Instagram](https://www.instagram.com/lmj.infantfeedingsupport/) - She's a lactation consultant who posts useful and reassuring information about breastfeeding.
+- Lyndsey Hookway
+
+   [Instagram](https://www.instagram.com/lyndsey_hookway/) - She's a lactation and sleep consultant who is very down-to-earth and realistic. She's  currently doing a PhD with Amy Brown's research group. Posts useful and reassuring information about breastfeeding and new parenting.
+
+### Breastfeeding problems
 
 However, if you hit problems, especially in the early days, here are a couple of short books I found useful (we had undiagnosed tongue tie which caused pain and a lot of stress in the first few months):
 
@@ -53,6 +70,10 @@ We went the "baby-led weaning" route (i.e. finger foods from the start, no puree
 - [Mini First Aid course](https://www.minifirstaid.co.uk/) (course; we did it on Zoom but may now be available in-person)
 
    Really clear and practical course on first aid for babies and toddlers. We did it through Basingstoke NCT on Zoom during lockdown (or near-lockdown). It's very good, even without being able to do hands-on practice (though I think it probably goes in better if you get some hands-on practice during the class). She also sells first aid kits, which we bought as they contain the stuff you need.
+   
+ - [Solid Starts](https://www.instagram.com/solidstarts/) (Instagram)
+
+   Run by paediatric feeding experts. Posts useful and reassuring information about giving real food to babies. But don't be intimidated by some of their videos of ~8 mth old babies eating loads of food and not just throwing it on the floor. They're nice inspiring videos but if your baby doesn't do that (mine didn't until past 12 months) don't be put off.
 
 ## Babywearing (slings)
 
