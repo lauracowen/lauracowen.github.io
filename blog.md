@@ -16,3 +16,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+See also my contributions to eightbar.com https://eightbar.com/author/lauracowen/index.html
